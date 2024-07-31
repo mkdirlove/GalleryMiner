@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/images/icon.png" width="30%" />
-  <h1 align="center">Gallery Miner</h1>
+  <h1 align="center">Gallery Miner (Under Development)</h1>
   <h3>Yet another software for spying on Android gallery and forward all victim saved photos to your telegram bot.</h3>
   <h4>This software is exclusively designed for educational purposes ⚠️</h4>
 </div>
